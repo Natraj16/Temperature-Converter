@@ -1,5 +1,5 @@
 var cel  = document.getElementById("cel");
-var cel =  document.getElementById("fah");
+var fah =  document.getElementById("fah");
 
 
 
